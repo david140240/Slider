@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "sass": "^1.70.0",
+    "sass-loader": "^13.3.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "sass-loader": "^13.3.2"
+  }
+}
